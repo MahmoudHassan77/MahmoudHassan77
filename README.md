@@ -1,6 +1,6 @@
 <h3 align ="center" > <  Hi there /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
   <h2 align ="center"> I am Mahmoud :) </h2>
-  <h4 align ="center">Feel free to fork the repos, make sure you star them ;)</h4>
+  <h4 align ="center">Feel free to fork the repos, make sure you star them</h4>
   
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MahmoudHassan77&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p>
@@ -73,6 +73,6 @@
   <td> 
 
 <div align='center'>
-  <h1 align='center'> Show some ❤️ by starring some of the repositories ;) </h1>
+  <h1 align='center'> Show some ❤️ by starring some of the repositories</h1>
   </div>
   <h6>made with love by Mahmoud Hassan ❤️</h6>
