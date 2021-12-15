@@ -20,7 +20,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<img alt="Night Coding" width="300" height="300" src="https://github.com/MahmoudHassan77/MahmoudHassan77/blob/main/7df26fa959d20fa16bf8223205cd949b.gif" align="right"/>
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 🧐 &nbsp;Interested in Software Engineering.\
@@ -30,7 +30,7 @@
 ✉️ &nbsp;You can send me an email at [outlook](mahmoudhassan7764@outlook.com) I'll try to respond as soon as I can.
 
 
-
+<img alt="Night Coding" src="https://github.com/MahmoudHassan77/MahmoudHassan77/blob/main/1yft.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
