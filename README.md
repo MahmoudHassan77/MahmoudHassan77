@@ -55,7 +55,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mahmoudhassan7764/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mahmoudhassan7764@outlook.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mahmoudhassan7764@outlook.com"><img src="https://img.shields.io/badge/-Outlook-D14836?style=flat&logo=outlook&logoColor=white"/></a>
 <a href="https://www.facebook.com/MahmoudHassan7764"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/trezeguit7"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
