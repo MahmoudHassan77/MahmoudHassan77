@@ -17,14 +17,18 @@
 
 
 <br/>
-<img alt="Night Coding" width="300" height="300" src="https://github.com/MahmoudHassan77/MahmoudHassan77/blob/main/7df26fa959d20fa16bf8223205cd949b.gif" align="right"/>
+
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+<img alt="Night Coding" width="300" height="300" src="https://github.com/MahmoudHassan77/MahmoudHassan77/blob/main/7df26fa959d20fa16bf8223205cd949b.gif" align="right"/>
+
 ### 👨🏻‍💻 &nbsp;About Me
 🧐 &nbsp;Interested in Software Engineering.\
 🎓 &nbsp;I'm currently working as Full Stack Developer(.Net & React) at G2K Group.\
 💡  &nbsp; I like to explore new technologies.\
 🌱 &nbsp;I'm on track for learning more about AI and DevOps.\
 ✉️ &nbsp;You can send me an email at [outlook](mahmoudhassan7764@outlook.com) I'll try to respond as soon as I can.
+
 
 
 
