@@ -59,7 +59,6 @@
 <a href="https://www.instagram.com/trezeguit7"><img src="https://img.shields.io/badge/-Instagram-e02c72?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/MahmoudHassan7764"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/trezeguit7"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://twitter.com/trezeguit7"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
 
