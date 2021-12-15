@@ -26,7 +26,7 @@
 🌱 &nbsp;I'm on track for learning more about AI and DevOps.\
 ✉️ &nbsp;You can send me an email at [outlook](mahmoudhassan7764@outlook.com) I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" width="300" height="300" src="https://github.com/MahmoudHassan77/MahmoudHassan77/blob/main/7df26fa959d20fa16bf8223205cd949b.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
