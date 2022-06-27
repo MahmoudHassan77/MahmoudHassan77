@@ -1,4 +1,4 @@
-<h3 align ="center" > <  Hi there /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<h3 align ="center" > <  Hi there /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h3>
   <h2 align ="center"> I am Mahmoud :) </h2>
   <h4 align ="center">Feel free to fork the repos, make sure you star them</h4>
   
